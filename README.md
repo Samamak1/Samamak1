@@ -16,10 +16,10 @@ My portfolio is at samamak1.github.io
 
 ## Engineering work
 
-- [Vibration sensing and data acquisition](/Samamak1/vibration-sensing-data-acquisition) shows a two sensor test rig, three LabVIEW channels, 1,022 recorded samples, and the troubleshooting used to separate real events from setup faults.
-- [Shell and tube heat exchanger design](/Samamak1/shell-and-tube-heat-exchanger-design) follows an individual thermal design study from operating requirements through material comparison, heat transfer coefficients, fouling conditions, area, and tube length.
-- [Kite buggy structural analysis](/Samamak1/kite-buggy-structural-analysis) documents my share of a five person design project, including impact loading, tipping, stress, deflection, material selection, weight, and cost.
-- [RYGNeco](/Samamak1/RYGNeco) brings device intake, testing, grading, chain of custody, disposition, and customer reporting into one electronics lifecycle workflow.
+- [Vibration sensing and data acquisition](https://github.com/Samamak1/vibration-sensing-data-acquisition) shows a two sensor test rig, three LabVIEW channels, 1,022 recorded samples, and the troubleshooting used to separate real events from setup faults.
+- [Shell and tube heat exchanger design](https://github.com/Samamak1/shell-and-tube-heat-exchanger-design) follows an individual thermal design study from operating requirements through material comparison, heat transfer coefficients, fouling conditions, area, and tube length.
+- [Kite buggy structural analysis](https://github.com/Samamak1/kite-buggy-structural-analysis) documents my share of a five person design project, including impact loading, tipping, stress, deflection, material selection, weight, and cost.
+- [RYGNeco](https://github.com/Samamak1/RYGNeco) brings device intake, testing, grading, chain of custody, disposition, and customer reporting into one electronics lifecycle workflow.
 
 ## Tools I use
 
@@ -45,6 +45,6 @@ I use AI tools to write Python, organize technical information, compare design o
 
 ## Other systems I have built
 
-- [Crew scheduling engine](/Samamak1/crew-scheduling-engine) turns staffing rules and demand by daypart into a reviewable weekly workbook.
-- [Trade reconciliation](/Samamak1/mak-trade-reconciliation) matches multi asset trading records with configurable tolerances and test coverage.
-- [Alcohol pricing engine](/Samamak1/alcohol-pricing-engine) turns supplier cost data into a structured menu pricing workflow.
+- [Crew scheduling engine](https://github.com/Samamak1/crew-scheduling-engine) turns staffing rules and demand by daypart into a reviewable weekly workbook.
+- [Trade reconciliation](https://github.com/Samamak1/mak-trade-reconciliation) matches multi asset trading records with configurable tolerances and test coverage.
+- [Alcohol pricing engine](https://github.com/Samamak1/alcohol-pricing-engine) turns supplier cost data into a structured menu pricing workflow.
